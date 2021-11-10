@@ -8,20 +8,31 @@
       <url>https://www.ax4j.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.ax4j.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.ax4j.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 10 Nov 2021 20:50:21 +0800</lastBuildDate><atom:link href="https://www.ax4j.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何让 AI 模型跑起来系列 - Tensorflow</title>
+      <link>https://www.ax4j.com/posts/ai-model-serving-tensorflow/</link>
+      <pubDate>Wed, 10 Nov 2021 20:50:21 +0800</pubDate>
+      
+      <guid>https://www.ax4j.com/posts/ai-model-serving-tensorflow/</guid>
+      <description>了解 AI 模型如何 Serving 之 Tensorflow Serving，会带你深入源码，研究 model 如何变成 http、grpc 服务</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://www.ax4j.com/about/</link>
       <pubDate>Tue, 09 Nov 2021 22:22:07 +0800</pubDate>
       
       <guid>https://www.ax4j.com/about/</guid>
-      <description></description>
+      <description>Golang、Rust、Python 混合。 目前在云原生领域研究，IaaS、PaaS、FaaS 大杂烩。 参与了 开放原子基金会。
+ Mixup of Golang、Rust、Python. Currently focusing on research in the Cloud Native, Familiar with IaaS, PaaS, FaaS. Participated in the OpenAtom Foundation.</description>
     </item>
     
     <item>
       <title>Using WebAssembly threads from C, C&#43;&#43; and Rust</title>
       <link>https://www.ax4j.com/posts/using-webassembly-threads-from-c-cpp-rust/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 Sep 2021 14:00:00 +0800</pubDate>
       
       <guid>https://www.ax4j.com/posts/using-webassembly-threads-from-c-cpp-rust/</guid>
       <description>了解如何将用其他语言编写的多线程应用程序引入 WebAssembly。</description>

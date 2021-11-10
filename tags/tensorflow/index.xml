@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on ax for swartz</title>
-    <link>https://www.ax4j.com/posts/</link>
-    <description>Recent content in Posts on ax for swartz</description>
+    <title>Tensorflow on ax for swartz</title>
+    <link>https://www.ax4j.com/tags/tensorflow/</link>
+    <description>Recent content in Tensorflow on ax for swartz</description>
     <image>
       <url>https://www.ax4j.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.ax4j.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 10 Nov 2021 20:50:21 +0800</lastBuildDate><atom:link href="https://www.ax4j.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Nov 2021 20:50:21 +0800</lastBuildDate><atom:link href="https://www.ax4j.com/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何让 AI 模型跑起来系列 - Tensorflow</title>
       <link>https://www.ax4j.com/posts/ai-model-serving-tensorflow/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://www.ax4j.com/posts/ai-model-serving-tensorflow/</guid>
       <description>了解 AI 模型如何 Serving 之 Tensorflow Serving，会带你深入源码，研究 model 如何变成 http、grpc 服务</description>
-    </item>
-    
-    <item>
-      <title>Using WebAssembly threads from C, C&#43;&#43; and Rust</title>
-      <link>https://www.ax4j.com/posts/using-webassembly-threads-from-c-cpp-rust/</link>
-      <pubDate>Thu, 09 Sep 2021 14:00:00 +0800</pubDate>
-      
-      <guid>https://www.ax4j.com/posts/using-webassembly-threads-from-c-cpp-rust/</guid>
-      <description>了解如何将用其他语言编写的多线程应用程序引入 WebAssembly。</description>
     </item>
     
   </channel>
