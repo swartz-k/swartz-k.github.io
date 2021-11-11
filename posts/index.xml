@@ -9,7 +9,16 @@
       <link>https://www.ax4j.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 10 Nov 2021 20:50:21 +0800</lastBuildDate><atom:link href="https://www.ax4j.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Nov 2021 23:40:00 +0800</lastBuildDate><atom:link href="https://www.ax4j.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Golang语言中的领域驱动设计 - 战略设计</title>
+      <link>https://www.ax4j.com/posts/domain-driven-design-in-golang-strategic-design-/</link>
+      <pubDate>Thu, 11 Nov 2021 23:40:00 +0800</pubDate>
+      
+      <guid>https://www.ax4j.com/posts/domain-driven-design-in-golang-strategic-design-/</guid>
+      <description>还在用面向对象的设计吗？考虑一下 DDD 你会发现真香！从战略层面了解 Golang中如何实现 领域驱动设计 DDD。</description>
+    </item>
+    
     <item>
       <title>如何让 AI 模型跑起来系列 - Tensorflow</title>
       <link>https://www.ax4j.com/posts/ai-model-serving-tensorflow/</link>
