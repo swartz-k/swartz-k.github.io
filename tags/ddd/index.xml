@@ -9,13 +9,22 @@
       <link>https://www.ax4j.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 11 Nov 2021 23:40:00 +0800</lastBuildDate><atom:link href="https://www.ax4j.com/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Nov 2021 16:17:21 +0800</lastBuildDate><atom:link href="https://www.ax4j.com/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Golang语言中的领域驱动设计 - 战略设计</title>
-      <link>https://www.ax4j.com/posts/domain-driven-design-in-golang-strategic-design-/</link>
+      <title>Golang 中的领域驱动设计 - 战术设计</title>
+      <link>https://www.ax4j.com/posts/ddd-using-golang-tactical-design/</link>
+      <pubDate>Sat, 13 Nov 2021 16:17:21 +0800</pubDate>
+      
+      <guid>https://www.ax4j.com/posts/ddd-using-golang-tactical-design/</guid>
+      <description>上篇文章中我们讲了在 Golang 中实现领域驱动设计 DDD 相关的战略设计，这一篇我们会提供更多代码示例，从战术层面讲一讲应该如何做！</description>
+    </item>
+    
+    <item>
+      <title>Golang 中的领域驱动设计 - 战略设计</title>
+      <link>https://www.ax4j.com/posts/domain-driven-design-in-golang-strategic-design/</link>
       <pubDate>Thu, 11 Nov 2021 23:40:00 +0800</pubDate>
       
-      <guid>https://www.ax4j.com/posts/domain-driven-design-in-golang-strategic-design-/</guid>
+      <guid>https://www.ax4j.com/posts/domain-driven-design-in-golang-strategic-design/</guid>
       <description>还在用面向对象的设计吗？考虑一下 DDD 你会发现真香！从战略层面了解 Golang中如何实现 领域驱动设计 DDD。</description>
     </item>
     
