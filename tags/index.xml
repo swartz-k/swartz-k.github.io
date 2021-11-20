@@ -9,7 +9,25 @@
       <link>https://www.ax4j.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 13 Nov 2021 16:17:21 +0800</lastBuildDate><atom:link href="https://www.ax4j.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Nov 2021 22:58:01 +0800</lastBuildDate><atom:link href="https://www.ax4j.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://www.ax4j.com/tags/ai/</link>
+      <pubDate>Sun, 14 Nov 2021 22:58:01 +0800</pubDate>
+      
+      <guid>https://www.ax4j.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT</title>
+      <link>https://www.ax4j.com/tags/iot/</link>
+      <pubDate>Sun, 14 Nov 2021 22:58:01 +0800</pubDate>
+      
+      <guid>https://www.ax4j.com/tags/iot/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>DDD</title>
       <link>https://www.ax4j.com/tags/ddd/</link>
@@ -25,15 +43,6 @@
       <pubDate>Sat, 13 Nov 2021 16:17:21 +0800</pubDate>
       
       <guid>https://www.ax4j.com/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://www.ax4j.com/tags/ai/</link>
-      <pubDate>Wed, 10 Nov 2021 20:50:21 +0800</pubDate>
-      
-      <guid>https://www.ax4j.com/tags/ai/</guid>
       <description></description>
     </item>
     

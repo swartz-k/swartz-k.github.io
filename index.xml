@@ -9,7 +9,16 @@
       <link>https://www.ax4j.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 13 Nov 2021 16:17:21 +0800</lastBuildDate><atom:link href="https://www.ax4j.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Nov 2021 22:58:01 +0800</lastBuildDate><atom:link href="https://www.ax4j.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KubeEdge 边缘计算 AI 框架分析 - Sedna</title>
+      <link>https://www.ax4j.com/posts/sedna/</link>
+      <pubDate>Sun, 14 Nov 2021 22:58:01 +0800</pubDate>
+      
+      <guid>https://www.ax4j.com/posts/sedna/</guid>
+      <description>分析 Sedna 框架，带你感受 AI + 边缘计算的神奇魅力 (ﾉﾟ0ﾟ)ﾉ~</description>
+    </item>
+    
     <item>
       <title>Golang 中的领域驱动设计 - 战术设计</title>
       <link>https://www.ax4j.com/posts/ddd-using-golang-tactical-design/</link>
@@ -43,8 +52,8 @@
       <pubDate>Tue, 09 Nov 2021 22:22:07 +0800</pubDate>
       
       <guid>https://www.ax4j.com/about/</guid>
-      <description>Golang、Rust、Python 混合。 目前在云原生领域研究，IaaS、PaaS、FaaS 大杂烩。 参与了 开放原子基金会。
- Mixup of Golang、Rust、Python. Currently focusing on research in the Cloud Native, Familiar with IaaS, PaaS, FaaS. Participated in the OpenAtom Foundation.</description>
+      <description>Golang、Rust、Python 混合。 目前在云原生领域研究，IaaS、PaaS、FaaS 大杂烩。 开放原子基金会 银牌讲师。
+ Mixup of Golang、Rust、Python. Currently focusing on research in the Cloud Native, Familiar with IaaS, PaaS, FaaS. OpenAtom Foundation Silver Lecturer.</description>
     </item>
     
     <item>
