@@ -9,14 +9,14 @@
       <link>https://www.ax4j.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 14 Nov 2021 22:58:01 +0800</lastBuildDate><atom:link href="https://www.ax4j.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Nov 2021 23:08:00 +0800</lastBuildDate><atom:link href="https://www.ax4j.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>KubeEdge 边缘计算 AI 框架分析 - Sedna</title>
-      <link>https://www.ax4j.com/posts/sedna/</link>
-      <pubDate>Sun, 14 Nov 2021 22:58:01 +0800</pubDate>
+      <title>Firecracker 研究 - 结合 kata 使用及常见问题分析</title>
+      <link>https://www.ax4j.com/posts/kata-firecracker-no-such-file-error/</link>
+      <pubDate>Sun, 21 Nov 2021 23:08:00 +0800</pubDate>
       
-      <guid>https://www.ax4j.com/posts/sedna/</guid>
-      <description>分析 Sedna 框架，带你感受 AI + 边缘计算的神奇魅力 (ﾉﾟ0ﾟ)ﾉ~</description>
+      <guid>https://www.ax4j.com/posts/kata-firecracker-no-such-file-error/</guid>
+      <description>从虚拟机分析入手，讲解如何在 K8S 环境中安装、使用 Kata Container 和 Firecracker 以及遇到的 devmapper 导致 failed to mount &amp;hellip;. no such file or directory 问题的解决办法。</description>
     </item>
     
     <item>

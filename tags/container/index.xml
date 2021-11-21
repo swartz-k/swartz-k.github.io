@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Container on ax for swartz</title>
+    <link>https://www.ax4j.com/tags/container/</link>
+    <description>Recent content in Container on ax for swartz</description>
+    <image>
+      <url>https://www.ax4j.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.ax4j.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 21 Nov 2021 23:08:00 +0800</lastBuildDate><atom:link href="https://www.ax4j.com/tags/container/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firecracker 研究 - 结合 kata 使用及常见问题分析</title>
+      <link>https://www.ax4j.com/posts/kata-firecracker-no-such-file-error/</link>
+      <pubDate>Sun, 21 Nov 2021 23:08:00 +0800</pubDate>
+      
+      <guid>https://www.ax4j.com/posts/kata-firecracker-no-such-file-error/</guid>
+      <description>从虚拟机分析入手，讲解如何在 K8S 环境中安装、使用 Kata Container 和 Firecracker 以及遇到的 devmapper 导致 failed to mount &amp;hellip;. no such file or directory 问题的解决办法。</description>
+    </item>
+    
+  </channel>
+</rss>

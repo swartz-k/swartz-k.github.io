@@ -9,16 +9,7 @@
       <link>https://www.ax4j.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 14 Nov 2021 22:58:01 +0800</lastBuildDate><atom:link href="https://www.ax4j.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>KubeEdge 边缘计算 AI 框架分析 - Sedna</title>
-      <link>https://www.ax4j.com/posts/sedna/</link>
-      <pubDate>Sun, 14 Nov 2021 22:58:01 +0800</pubDate>
-      
-      <guid>https://www.ax4j.com/posts/sedna/</guid>
-      <description>分析 Sedna 框架，带你感受 AI + 边缘计算的神奇魅力 (ﾉﾟ0ﾟ)ﾉ~</description>
-    </item>
-    
+    <lastBuildDate>Wed, 10 Nov 2021 20:50:21 +0800</lastBuildDate><atom:link href="https://www.ax4j.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何让 AI 模型跑起来系列 - Tensorflow</title>
       <link>https://www.ax4j.com/posts/ai-model-serving-tensorflow/</link>
