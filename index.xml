@@ -65,23 +65,5 @@
       <description>了解如何将用其他语言编写的多线程应用程序引入 WebAssembly。</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://www.ax4j.com/posts/cdn-%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ax4j.com/posts/cdn-%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/</guid>
-      <description>CDN 论文解读 综述 CDN架构  源服务器将其URI名称空间委托给CDN分发和传递给请求路由系统的文档对象 源服务器将要分发的内容推送到分发系统 分发系统将内容移动到副本服务器。此外，该系统还通过反馈与请求路由系统进行交互，辅助客户请求的副本服务器选择过程 客户端从它认为是来源的地方请求文档。但是，由于URIname空间委派，请求实际上被定向到请求路由系统 请求路由系统将请求路由到CDN中合适的副本服务器 被选中的副本服务器将所请求的内容传递给客户端。另外，副本服务器向计费系统发送递送内容的计费信息 计费系统将计费信息聚合并提炼成统计和内容明细记录，以供源站和计费组织使用。统计数据也作为对请求路由系统的反馈 计费组织使用内容详细记录与内容分发和交付过程中涉及的每一方进行结算  Server PminK，最小K-中心问题 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.ax4j.com/posts/cloud-events-%E9%A9%B1%E5%8A%A8-everything/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ax4j.com/posts/cloud-events-%E9%A9%B1%E5%8A%A8-everything/</guid>
-      <description>Cloud events 驱动 everything </description>
-    </item>
-    
   </channel>
 </rss>
